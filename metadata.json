@@ -1,0 +1,7 @@
+{
+  "name": "Knowledge Deconstruction Tutor v3.0",
+  "description": "An advanced intelligent learning application featuring an expert prompt engineering system, multi-modal model support, and continuous conversation for deep knowledge deconstruction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
